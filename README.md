@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJxY2kyc2U5Z3k2cTUzMnN2d2RidjRycTk1NGFyeHF4bTRrdm0ydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vLpclx5lofmqnEswm0/giphy.gif" width="750"/>
+</p>
+
+
 - I’m currently working on **@Coursera**
 - I’m currently learning [**Introduction to Secure Networking**  offered by Microsoft on Coursera](https://coursera.org/share/19ff889aa5aba7d1490cc2d2a8c82e1b)
 
