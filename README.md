@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 
 
 
+![Information Technology Enthusiast](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXE2N2xkYXlrdzRzczFuZG16YzFxZzl1dmZxd2NlMWI4bjR3aGEzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qy5puFfG5DGAFbr0SD/giphy.gif)
