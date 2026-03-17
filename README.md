@@ -24,4 +24,4 @@ I also gained industry exposure through an internship at PT PLN (Persero). Curre
 
 
 
-![Image](https://github.com/user-attachments/assets/a695a622-7f6c-43d0-ad6a-cd1ac81a037f)
+![Image](https://github.com/user-attachments/assets/9e6b259c-6909-4767-9c98-3d6ba5ec349d)
