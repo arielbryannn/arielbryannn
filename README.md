@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **@Coursera**
-- 🌱 I’m currently learning [**Introduction to Secure Networking**  offered by Microsoft on Coursera](https://coursera.org/share/19ff889aa5aba7d1490cc2d2a8c82e1b)
-- 
+- I’m currently working on **@Coursera**
+- I’m currently learning [**Introduction to Secure Networking**  offered by Microsoft on Coursera](https://coursera.org/share/19ff889aa5aba7d1490cc2d2a8c82e1b)
+
 I am a Computer Systems undergraduate at Gunadarma University with strong interests in Networking, Embedded Systems, and Internet of Things (IoT). I have worked on projects such as fire detection systems, drowsiness detection, hand tracking applications, and network simulations using Cisco routers.
 
 I also gained industry exposure through an internship at PT PLN (Persero). Currently, I am focused on building my portfolio and personal branding to prepare for my career.
