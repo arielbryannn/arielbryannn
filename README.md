@@ -22,6 +22,7 @@ I am a Computer Systems undergraduate at Gunadarma University with strong intere
 
 I also gained industry exposure through an internship at PT PLN (Persero). Currently, I am focused on building my portfolio and personal branding to prepare for my career.
 
+ahahahaha
 
 
-![Image](https://github.com/user-attachments/assets/9e6b259c-6909-4767-9c98-3d6ba5ec349d)
+![Image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVla2dqOWdkOWRxeGpqeXI2ZmF1ZGJ3MW14dzhyb3EzOTB6dnRmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q9Hk9PiFxSN0yYsVqb/giphy.gif)
