@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Everyone! I'am Ariel Bryan👋
 
 <!--
 **arielbryannn/arielbryannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **@Coursera**
+- 🌱 I’m currently learning [**Introduction to Secure Networking**  offered by Microsoft on Coursera](https://coursera.org/share/19ff889aa5aba7d1490cc2d2a8c82e1b)
+
+![Information Technology Enthusiast](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdpcTVzYTltNHh5OTB5anp5bXJmYnM2a2hvaTBhb2lreG81cjBscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4FkC2VqpeNRHjTDQ5/giphy.gif)
