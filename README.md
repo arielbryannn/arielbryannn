@@ -26,5 +26,5 @@ ahahahaha
 
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBrNjZsdm90aG1tNWEyOXhhYTFqNHF3Y3phMHQyeG94MGYzNG1iZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g0yIdrBB88niBctbaN/giphy.gif" width="800"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBrNjZsdm90aG1tNWEyOXhhYTFqNHF3Y3phMHQyeG94MGYzNG1iZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g0yIdrBB88niBctbaN/giphy.gif" width="750"/>
 </p>
