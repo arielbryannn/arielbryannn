@@ -25,4 +25,6 @@ I also gained industry exposure through an internship at PT PLN (Persero). Curre
 ahahahaha
 
 
-![Image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVla2dqOWdkOWRxeGpqeXI2ZmF1ZGJ3MW14dzhyb3EzOTB6dnRmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q9Hk9PiFxSN0yYsVqb/giphy.gif)
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVla2dqOWdkOWRxeGpqeXI2ZmF1ZGJ3MW14dzhyb3EzOTB6dnRmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q9Hk9PiFxSN0yYsVqb/giphy.gif" width="600"/>
+</p>
