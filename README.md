@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **@Coursera**
 - 🌱 I’m currently learning [**Introduction to Secure Networking**  offered by Microsoft on Coursera](https://coursera.org/share/19ff889aa5aba7d1490cc2d2a8c82e1b)
 
-! [Information Technology Enthusiast](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXE2N2xkYXlrdzRzczFuZG16YzFxZzl1dmZxd2NlMWI4bjR3aGEzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qy5puFfG5DGAFbr0SD/giphy.gif)
+
+
