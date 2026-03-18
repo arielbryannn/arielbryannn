@@ -1,4 +1,4 @@
-![Ariel Bryan](img/fotoaril.jpeg
+![Ariel Bryan](img/fotoaril.jpeg)
 
 
 ## *Hi Everyone! I'm Ariel Fazle Mawla Bryan Adams👋*
@@ -115,7 +115,6 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/arielbryannn/arielbryannn/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" height="150" />
 
 <p align="left">Play games with me!</p>
 
