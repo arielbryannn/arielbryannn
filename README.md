@@ -7,9 +7,33 @@ I'm a Computer Systems undergraduate at Gunadarma University with strong interes
 
 I also gained industry exposure through an internship at PT PLN (Persero). Currently, I am focused on building my portfolio and personal branding to prepare for my career.
 
+
+#### 🎓 Certifications & Learning
 - I’m currently working on **@Coursera**
 - I’m currently learning [**Introduction to Secure Networking**  offered by Microsoft on Coursera](https://coursera.org/share/19ff889aa5aba7d1490cc2d2a8c82e1b)
 
+
+
+#### 🚀 Featured Projects
+
+##### Fire Detection System
+- Built using OpenCV (Python)
+- Detects fire in real-time and sends alerts via email
+- [View Project](link_github)
+
+##### Drowsiness Detection System
+- Eye state detection (open/closed)
+- Prevents driver fatigue
+- [View Project](link_github)
+
+##### Hand Tracking Application
+- Real-time hand gesture tracking using OpenCV
+- [View Project](link_github)
+
+##### Network Simulation 
+- Designed network topology using Cisco routers
+- Simulated routing protocols
+- [View Project](link_github) 🌐 
 
 
 <!--
