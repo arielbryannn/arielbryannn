@@ -116,10 +116,6 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 
 <br clear="both">
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/arielbryannn/arielbryannn/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
-</p>
-
 <p align="left">Play games with me!</p>
 
 
