@@ -104,9 +104,6 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 
 <br>
 
-## 📊 My Github Stats
-
-![Ariel Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielbryannn)
 
 
 <!--
