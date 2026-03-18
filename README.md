@@ -102,6 +102,11 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 - Simulated routing protocols
 - [View Project](link_github) 🌐 
 
+<br>
+
+## 📊 My Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielbryannn)]
 
 
 <!--
