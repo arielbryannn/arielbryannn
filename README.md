@@ -108,7 +108,7 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 
 
 
-![Ariel Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielbryannn&show_icons=true&theme=github_dark)  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arielbryannn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+![Ariel Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielbryannn&show_icons=true&theme=github_dark)  
 
 <br clear="both">
 
