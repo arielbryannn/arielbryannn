@@ -47,6 +47,9 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 - [View Project](link_github) 🌐 
 
 
+#### 🛠️ Tech Stack
+
+
 <!--
 **arielbryannn/arielbryannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
