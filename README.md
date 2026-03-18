@@ -71,7 +71,7 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
@@ -103,6 +103,13 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 - [View Project](link_github) 🌐 
 
 <br>
+
+## 📊 My GitHub Stats
+
+![Ariel Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielbryannn&show_icons=true&theme=github_dark)
+
+
+
 
 
 
