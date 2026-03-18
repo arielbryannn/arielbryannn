@@ -30,16 +30,16 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 ##### Fire Detection System
 - Built using OpenCV (Python)
 - Detects fire in real-time and sends alerts via email
-- [View Project](🔗 https://github.com/arielbryannn/Detection-Projects/tree/main)
+- [View Project](🔗 hhttps://github.com/arielbryannn/Detection-Projects/blob/main/deteksi_api_opencv_mediapipe2.py)
 
 ##### Drowsiness Detection System
 - Eye state detection (open/closed)
 - Prevents driver fatigue
-- [View Project](link_github)
+- [View Project](https://github.com/arielbryannn/Detection-Projects/tree/main)
 
 ##### Hand Tracking Application
 - Real-time hand gesture tracking using OpenCV
-- [View Project](link_github)
+- [View Project](https://github.com/arielbryannn/Detection-Projects/tree/main)
 
 ##### Network Simulation 
 - Designed network topology using Cisco routers
