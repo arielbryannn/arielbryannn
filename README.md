@@ -5,7 +5,7 @@
 ##### I'm a Computer Systems undergraduate passionate about Networking, IoT, and Embedded Systems.
 
 <p>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTg0dmgzOGRiZWFicWlmZ2l0M2ZhbHVnaWdjNXN2ZTg1NWZkajh4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zx1KzuQBR8wIbrm81t/giphy.gif" width="800"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTg0dmgzOGRiZWFicWlmZ2l0M2ZhbHVnaWdjNXN2ZTg1NWZkajh4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zx1KzuQBR8wIbrm81t/giphy.gif" width="900/>
 </p>
 
 ## 👨‍💻 About Me
