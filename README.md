@@ -1,8 +1,10 @@
 ![Ariel Bryan](img/fotoaril.jpeg)
 
 
-## Hi Everyone! I'm Ariel Bryan👋
+## *Hi Everyone! I'm Ariel Bryan👋*
 ##### I'm a Computer Systems undergraduate passionate about Networking, IoT, and Embedded Systems.
+
+<br>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdkNXo0M3MzdnMycndkOWxpZWJkOWZreXB2OHE5NDl0a283MWJnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7JjtaDlLiATz2UnfsU/giphy.gif" width="800"/>
@@ -11,13 +13,9 @@
 <br>
 
 ## 👨‍💻 About Me
-I'm a Computer Systems undergraduate at Gunadarma University with a strong interest in Networking, Embedded Systems, and Internet of Things (IoT).
+I'm a Computer Systems undergraduate at Gunadarma University with a strong interest in Networking, Embedded Systems, and Internet of Things (IoT). I have built several practical and problem-solving projects, including a fire detection system with real-time email alerts, a drowsiness detection system based on eye state analysis, hand tracking applications using computer vision, and network simulations using Cisco routers.
 
-I have built several practical and problem-solving projects, including a fire detection system with real-time email alerts, a drowsiness detection system based on eye state analysis, hand tracking applications using computer vision, and network simulations using Cisco routers.
-
-Through my internship at PT PLN (Persero), I gained exposure to real-world systems, professional workflows, and teamwork in a technical environment.
-
-I enjoy building solutions that combine software and hardware to solve real-world problems, especially in networking and intelligent systems.
+Through my internship at PT PLN (Persero), I gained exposure to real-world systems, professional workflows, and teamwork in a technical environment.I enjoy building solutions that combine software and hardware to solve real-world problems, especially in networking and intelligent systems.
 
 Currently, I am focused on strengthening my technical skills, expanding my project portfolio, and preparing for a career in networking, cloud computing, and IoT.
 
