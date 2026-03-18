@@ -20,9 +20,10 @@ I enjoy building solutions that combine software and hardware to solve real-worl
 Currently, I am focused on strengthening my technical skills, expanding my project portfolio, and preparing for a career in networking, cloud computing, and IoT.
 
 #### 🎓 Certifications & Learning
+<p align="center">
 <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> 
-
 <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
 
 - I’m currently working on **@Coursera**
 - I’m currently learning [**Introduction to Secure Networking**  offered by Microsoft on Coursera](https://coursera.org/share/bb426b861fb24197171f90b925036adb)
