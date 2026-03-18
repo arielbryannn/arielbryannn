@@ -30,7 +30,7 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 ##### Fire Detection System
 - Built using OpenCV (Python)
 - Detects fire in real-time and sends alerts via email
-- [View Project](link_github)
+- [View Project](🔗 https://github.com/arielbryannn/Detection-Projects/tree/main)
 
 ##### Drowsiness Detection System
 - Eye state detection (open/closed)
