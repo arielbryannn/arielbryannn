@@ -8,6 +8,10 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdkNXo0M3MzdnMycndkOWxpZWJkOWZreXB2OHE5NDl0a283MWJnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7JjtaDlLiATz2UnfsU/giphy.gif" width="800"/>
 </p>
 
+
+<br>
+
+
 ## 👨‍💻 About Me
 I'm a Computer Systems undergraduate at Gunadarma University with a strong interest in Networking, Embedded Systems, and Internet of Things (IoT).
 
@@ -19,7 +23,11 @@ I enjoy building solutions that combine software and hardware to solve real-worl
 
 Currently, I am focused on strengthening my technical skills, expanding my project portfolio, and preparing for a career in networking, cloud computing, and IoT.
 
-#### 🎓 Certifications & Learning
+
+<br>
+
+
+## 🎓 Certifications & Learning
 
 <p align="center">
 <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> 
@@ -30,7 +38,10 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 - I’m currently learning [**Introduction to Secure Networking**  offered by Microsoft on Coursera](https://coursera.org/share/bb426b861fb24197171f90b925036adb)
 
 
-#### Skills
+<br>
+
+
+## 🛠️ Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -69,8 +80,9 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 
+<br>
 
-#### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ##### Fire Detection System
 - Built using OpenCV (Python)
@@ -91,8 +103,6 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 - Simulated routing protocols
 - [View Project](link_github) 🌐 
 
-
-#### 🛠️ Tech Stack
 
 
 <!--
