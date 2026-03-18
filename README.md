@@ -14,7 +14,7 @@ I also gained industry exposure through an internship at PT PLN (Persero). Curre
 
 #### 🎓 Certifications & Learning
 - I’m currently working on **@Coursera**
-- I’m currently learning [**Introduction to Secure Networking**  offered by Microsoft on Coursera](https://coursera.org/share/19ff889aa5aba7d1490cc2d2a8c82e1b)
+- I’m currently learning [**Introduction to Secure Networking**  offered by Microsoft on Coursera](https://coursera.org/share/bb426b861fb24197171f90b925036adb)
 
 
 
