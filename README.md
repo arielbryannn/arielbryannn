@@ -110,11 +110,13 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 
 ![Ariel Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielbryannn&show_icons=true&theme=github_dark)  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arielbryannn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 
-<br clear="both"> 
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/arielbryannn/arielbryannn/output/snake.svg" alt="Snake animation" />
 
 <br clear="both">
+
+<img src="https://raw.githubusercontent.com/arielbryannn/arielbryannn/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" height="150" />
 
 <p align="left">Play games with me!</p>
 
