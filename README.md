@@ -113,19 +113,12 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/arielbryannn/arielbryannn/output/snake.svg" alt="Snake animation" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/arielbryannn/arielbryannn/output/snake.svg" alt="Snake animation" height="150" />
+  <img src="https://raw.githubusercontent.com/arielbryannn/arielbryannn/output/pacman-contribution-graph.svg" alt="Pacman animation" height="150" />
+</p>
 
 <p align="left">Play games with me!</p>
-
-<<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arielbryannn/arielbryannn/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arielbryannn/arielbryannn/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arielbryannn/arielbryannn/output/pacman-contribution-graph.svg">
-</picture>
-
-
-<p align="left">Play games with me</p>
-
 
 
 
