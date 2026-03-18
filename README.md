@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJxY2kyc2U5Z3k2cTUzMnN2d2RidjRycTk1NGFyeHF4bTRrdm0ydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vLpclx5lofmqnEswm0/giphy.gif" width="750"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTg0dmgzOGRiZWFicWlmZ2l0M2ZhbHVnaWdjNXN2ZTg1NWZkajh4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zx1KzuQBR8wIbrm81t/giphy.gif" width="750"/>
 </p>
