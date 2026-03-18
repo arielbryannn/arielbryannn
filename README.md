@@ -8,15 +8,10 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdkNXo0M3MzdnMycndkOWxpZWJkOWZreXB2OHE5NDl0a283MWJnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7JjtaDlLiATz2UnfsU/giphy.gif" width="800"/>
 </p>
 
-
 <br>
 
-
 ## 👨‍💻 About Me
-<p>
 I'm a Computer Systems undergraduate at Gunadarma University with a strong interest in Networking, Embedded Systems, and Internet of Things (IoT).
-<p>
-
 
 I have built several practical and problem-solving projects, including a fire detection system with real-time email alerts, a drowsiness detection system based on eye state analysis, hand tracking applications using computer vision, and network simulations using Cisco routers.
 
@@ -26,9 +21,7 @@ I enjoy building solutions that combine software and hardware to solve real-worl
 
 Currently, I am focused on strengthening my technical skills, expanding my project portfolio, and preparing for a career in networking, cloud computing, and IoT.
 
-
 <br>
-
 
 ## 🎓 Certifications & Learning
 
@@ -40,9 +33,7 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 - I’m currently working on **@Coursera**
 - I’m currently learning [**Introduction to Secure Networking**  offered by Microsoft on Coursera](https://coursera.org/share/bb426b861fb24197171f90b925036adb)
 
-
 <br>
-
 
 ## 🛠️ Skills
 
