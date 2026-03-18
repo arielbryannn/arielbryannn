@@ -30,6 +30,7 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 
 #### Skills
 
+<p align="center">
 <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -57,7 +58,7 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-
+</p>
 
 
 #### 🚀 Featured Projects
