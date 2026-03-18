@@ -35,11 +35,11 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 ##### Drowsiness Detection System
 - Eye state detection (open/closed)
 - Prevents driver fatigue
-- [View Project](https://github.com/arielbryannn/Detection-Projects/tree/main)
+- [View Project](https://github.com/arielbryannn/Detection-Projects/blob/main/import%20cv2-sleep%20detected.py)
 
 ##### Hand Tracking Application
 - Real-time hand gesture tracking using OpenCV
-- [View Project](import cv2-sleep detected.py)
+- [View Project](https://github.com/arielbryannn/Detection-Projects/blob/main/import%20cv2%20-%20hand%20tracking2.py)
 
 ##### Network Simulation 
 - Designed network topology using Cisco routers
