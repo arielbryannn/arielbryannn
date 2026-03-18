@@ -1,4 +1,4 @@
-![Ariel Bryan](img/fotoaril.jpeg)
+![Ariel Bryan](img/fotoaril.jpeg
 
 
 ## *Hi Everyone! I'm Ariel Fazle Mawla Bryan Adams👋*
