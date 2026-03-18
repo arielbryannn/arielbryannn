@@ -9,8 +9,15 @@
 </p>
 
 ## 👨‍💻 About Me
-...
+I'm a Computer Systems undergraduate at Gunadarma University with a strong interest in Networking, Embedded Systems, and Internet of Things (IoT).
 
+I have built several practical and problem-solving projects, including a fire detection system with real-time email alerts, a drowsiness detection system based on eye state analysis, hand tracking applications using computer vision, and network simulations using Cisco routers.
+
+Through my internship at PT PLN (Persero), I gained exposure to real-world systems, professional workflows, and teamwork in a technical environment.
+
+I enjoy building solutions that combine software and hardware to solve real-world problems, especially in networking and intelligent systems.
+
+Currently, I am focused on strengthening my technical skills, expanding my project portfolio, and preparing for a career in networking, cloud computing, and IoT.
 
 #### 🎓 Certifications & Learning
 - I’m currently working on **@Coursera**
