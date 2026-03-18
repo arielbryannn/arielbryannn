@@ -113,10 +113,6 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 
 <img src="https://raw.githubusercontent.com/arielbryannn/arielbryannn/output/snake.svg" alt="Snake animation" />
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/arielbryannn/arielbryannn/output/pacman-contribution-graph.svg" alt="Pacman animation" height="150" />
-
 <p align="left">Play games with me!</p>
 
 
