@@ -7,6 +7,10 @@ I'm a Computer Systems undergraduate at Gunadarma University with strong interes
 
 I also gained industry exposure through an internship at PT PLN (Persero). Currently, I am focused on building my portfolio and personal branding to prepare for my career.
 
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTg0dmgzOGRiZWFicWlmZ2l0M2ZhbHVnaWdjNXN2ZTg1NWZkajh4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zx1KzuQBR8wIbrm81t/giphy.gif" width="750"/>
+</p>
+
 
 #### 🎓 Certifications & Learning
 - I’m currently working on **@Coursera**
@@ -50,7 +54,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTg0dmgzOGRiZWFicWlmZ2l0M2ZhbHVnaWdjNXN2ZTg1NWZkajh4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zx1KzuQBR8wIbrm81t/giphy.gif" width="750"/>
-</p>
