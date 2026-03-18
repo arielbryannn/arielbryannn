@@ -1,7 +1,7 @@
 ![Ariel Bryan](img/fotoaril.jpeg)
 
 
-## *Hi Everyone! I'm Ariel Bryan👋*
+## *Hi Everyone! I'm Ariel Fazle Mawla Bryan Adams👋*
 ##### I'm a Computer Systems undergraduate passionate about Networking, IoT, and Embedded Systems.
 
 <br>
