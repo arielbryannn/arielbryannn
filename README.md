@@ -24,8 +24,9 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 ## 🎓 Certifications & Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <a href="https://www.coursera.org/learn/introduction-to-secure-networking" target="_blank">
+  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
+</a>
 </p>
 
 - I’m currently working on **@Coursera**
