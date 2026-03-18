@@ -39,7 +39,7 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 
 ##### Hand Tracking Application
 - Real-time hand gesture tracking using OpenCV
-- [View Project](https://github.com/arielbryannn/Detection-Projects/blob/main/import%20cv2-sleep%20detected.py)
+- [View Project](import cv2-sleep detected.py)
 
 ##### Network Simulation 
 - Designed network topology using Cisco routers
