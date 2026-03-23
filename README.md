@@ -172,7 +172,7 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 
 <br>
 
-### 🤝Let's Connect With Me
+### 🤝 Let's Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ariel-bryan/" target="_blank">
