@@ -84,8 +84,16 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 ## 🚀 Featured Projects
 
 ##### Fire Detection System
+##### Fire Detection System
+
 <p align="center">
-  <img src="img/handtracking.jpeg" width="250"/>
+  <img src="img/api1.jpeg" width="250"/>
+  <img src="img/api2.jpeg" width="250"/>
+</p>
+
+<p align="center">
+  <img src="img/api3.jpeg" width="250"/>
+  <img src="img/api4.jpeg" width="250"/>
 </p>
 
 - Built using OpenCV (Python)
@@ -93,11 +101,19 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 - [View Project](https://github.com/arielbryannn/Detection-Projects/blob/main/deteksi_api_opencv_mediapipe2.py)
 
 ##### Drowsiness Detection System
+<p align="center">
+  <img src="img/DrownsinessDetection.jpeg" width="250"/>
+</p>
+
 - Eye state detection (open/closed)
 - Prevents driver fatigue
 - [View Project](https://github.com/arielbryannn/Detection-Projects/blob/main/import%20cv2-sleep%20detected.py)
 
 ##### Hand Tracking Application
+<p align="center">
+  <img src="img/handtracking.jpeg" width="250"/>
+</p>
+
 - Real-time hand gesture tracking using OpenCV
 - [View Project](https://github.com/arielbryannn/Detection-Projects/blob/main/import%20cv2%20-%20hand%20tracking2.py)
 
