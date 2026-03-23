@@ -88,7 +88,7 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 
 ## 🚀 Featured Projects
 
-### 🚨🔥📲 Fire Detection System
+### 🚨🔥📲 Fire Detection System (Computer Vision)
 
 <p align="center">
   <img src="img/api1.jpeg" width="250"/>
@@ -108,7 +108,7 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 - System continuously monitors and stops alerts when no fire is detected
 - [View Project](https://github.com/arielbryannn/Detection-Projects/blob/main/deteksi_api_opencv_mediapipe2.py)
 
-### 😴🚨 Drowsiness Detection System
+### 😴🚨 Drowsiness Detection System (Computer Vision)
 <p align="center">
   <img src="img/DrownsinessDetection.jpeg" width="250"/>
 </p>
@@ -120,7 +120,7 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 - Real-time monitoring using webcam
 - [View Project](https://github.com/arielbryannn/Detection-Projects/blob/main/import%20cv2-sleep%20detected.py)
 
-### ✋🔊 Hand Tracking Application
+### ✋🔊 Hand Tracking Application (Computer Vision)
 <p align="center">
   <img src="img/handtracking.jpeg" width="250"/>
 </p>
@@ -155,7 +155,7 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 - [View Project](https://github.com/arielbryannn/Automatic_Fish_Feeder_Arduino-Project)
 
 
-### 🌐🖧 Network Simulation 
+### 🌐🖧 Network Simulation (Cisco Packet Tracer)
 
 <p align="center">
   <img src="img/CiscoTopology.jpeg" width="250"/>
