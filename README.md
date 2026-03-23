@@ -58,7 +58,13 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
 
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Kubuntu-0079C1?style=for-the-badge&logo=kubuntu&logoColor=white" />
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
@@ -70,7 +76,6 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
@@ -160,12 +165,36 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 
 - 4 routers configured with static routing
 - 2 DHCP servers for automatic IP address assignment
-- Static routes are configured on each router
-- DHCP servers assign IP addresses dynamically
-- Devices communicate across different subnets
+- Supports communication between multiple subnets
+- Manual routing configuration between networks
+- Simulated using Cisco Packet Tracer
 - [View Project](link_github)
 
 <br>
+
+### 🤝Let's Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ariel-bryan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/arielbryannn?igsh=M3c5ZGczNDM0eWM5&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/arielbryannn" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arielbrayen5@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+
+<br>
+
 
 ## 📊 My GitHub Stats
 
