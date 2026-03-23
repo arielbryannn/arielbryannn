@@ -84,6 +84,9 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 ## 🚀 Featured Projects
 
 ##### Fire Detection System
+<p align="center">
+  <img src="img/handtracking.jpeg/" width="250"/>
+</p>
 - Built using OpenCV (Python)
 - Detects fire in real-time and sends alerts via email
 - [View Project](https://github.com/arielbryannn/Detection-Projects/blob/main/deteksi_api_opencv_mediapipe2.py)
