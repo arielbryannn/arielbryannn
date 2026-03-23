@@ -150,9 +150,19 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 - [View Project](https://github.com/arielbryannn/Automatic_Fish_Feeder_Arduino-Project)
 
 
-### 🌐 🛜 Network Simulation 
-- Designed network topology using Cisco routers
-- Simulated routing protocols
+### 🌐🖧 Network Simulation 
+
+<p align="center">
+  <img src="img/CiscoTopology.jpeg" width="250"/>
+  <img src="img/CiscoPhysical.jpeg" width="250"/>
+</p>
+
+
+- 4 routers configured with static routing
+- 2 DHCP servers for automatic IP address assignment
+- Supports communication between multiple subnets
+- Manual routing configuration between networks
+- Simulated using Cisco Packet Tracer
 - [View Project](link_github)
 
 <br>
