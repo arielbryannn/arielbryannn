@@ -83,7 +83,7 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 
 ## 🚀 Featured Projects
 
-#### 🚨🔥 Fire Detection System
+#### 🚨🔥📲 Fire Detection System
 
 <p align="center">
   <img src="img/api1.jpeg" width="250"/>
