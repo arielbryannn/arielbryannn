@@ -124,11 +124,11 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 - Detects individual fingers (thumb, index, middle, ring, little)
 - Each finger gesture triggers a specific voice output
 - Example outputs:
-  Thumb → "Halo, perkenalkan"
-  Index → "Nama saya Ariel"
-  Middle → "Salam kenal yaa"
-  Ring → "Terima kasih"
-  Little → "Sampai jumpa"
+  - Thumb → "Halo, perkenalkan"
+  - Index → "Nama saya Ariel"
+  - Middle → "Salam kenal yaa"
+  - Ring → "Terima kasih"
+  - Little → "Sampai jumpa"
 - [View Project](https://github.com/arielbryannn/Detection-Projects/blob/main/import%20cv2%20-%20hand%20tracking2.py)
 
 #### Automatic Fish Feeder System (Arduino Uno)
