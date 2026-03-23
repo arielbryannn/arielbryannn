@@ -116,6 +116,19 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 - Real-time hand gesture tracking using OpenCV
 - [View Project](https://github.com/arielbryannn/Detection-Projects/blob/main/import%20cv2%20-%20hand%20tracking2.py)
 
+##### Automatic Fish Feeder System (Arduino Uno)
+
+<p align="center">
+  <img src="img/Sistem3.jpeg" width="250"/>
+  <img src="img/Sistem2.jpeg" width="250"/>
+</p>
+
+<p align="center">
+  <img src="img/Sistem1.jpeg" width="250"/>
+  <img src="img/Sistem4.jpeg" width="250"/>
+</p>
+
+
 ##### Network Simulation 
 - Designed network topology using Cisco routers
 - Simulated routing protocols
