@@ -108,8 +108,11 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
   <img src="img/DrownsinessDetection.jpeg" width="250"/>
 </p>
 
-- Eye state detection (open/closed)
-- Prevents driver fatigue
+- Eye state detection (open/closed) using computer vision
+- Detects drowsiness based on eye aspect ratio (EAR)
+- Triggers alert when eyes remain closed beyond a certain threshold
+- Helps prevent driver fatigue and microsleep
+- Real-time monitoring using webcam
 - [View Project](https://github.com/arielbryannn/Detection-Projects/blob/main/import%20cv2-sleep%20detected.py)
 
 #### Hand Tracking Application
@@ -118,6 +121,14 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 </p>
 
 - Real-time hand gesture tracking using OpenCV
+- Detects individual fingers (thumb, index, middle, ring, little)
+- Each finger gesture triggers a specific voice output
+- Example outputs:
+  Thumb → "Halo, perkenalkan"
+  Index → "Nama saya Ariel"
+  Middle → "Salam kenal yaa"
+  Ring → "Terima kasih"
+  Little → "Sampai jumpa"
 - [View Project](https://github.com/arielbryannn/Detection-Projects/blob/main/import%20cv2%20-%20hand%20tracking2.py)
 
 #### Automatic Fish Feeder System (Arduino Uno)
