@@ -103,7 +103,7 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 - System continuously monitors and stops alerts when no fire is detected
 - [View Project](https://github.com/arielbryannn/Detection-Projects/blob/main/deteksi_api_opencv_mediapipe2.py)
 
-#### 😴🚨 Drowsiness Detection System
+### 😴🚨 Drowsiness Detection System
 <p align="center">
   <img src="img/DrownsinessDetection.jpeg" width="250"/>
 </p>
