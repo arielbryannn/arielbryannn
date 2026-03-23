@@ -7,13 +7,13 @@
 <br>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdkNXo0M3MzdnMycndkOWxpZWJkOWZreXB2OHE5NDl0a283MWJnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7JjtaDlLiATz2UnfsU/giphy.gif" width="800"/>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdkNXo0M3MzdnMycndkOWxpZWJkOWZreXB2OHE5NDl0a283MWJnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7JjtaDlLiATz2UnfsU/giphy.gif" width="800"/>
 </p>
 
 <br>
 
 ## 👨‍💻 About Me
-I'm a Computer Systems undergraduate at Gunadarma University with a strong interest in Networking, Embedded Systems, and Internet of Things (IoT). I have built several practical and problem-solving projects, including a fire detection system with real-time email alerts, a drowsiness detection system based on eye state analysis, hand tracking applications using computer vision, and network simulations using Cisco routers.
+I'm Computer Systems undergraduate at Gunadarma University with a strong interest in Networking, Embedded Systems, and Internet of Things (IoT). I have built several practical and problem-solving projects, including a fire detection system with real-time email alerts, a drowsiness detection system based on eye state analysis, hand tracking applications using computer vision, and network simulations using Cisco routers.
 
 Through my internship at PT PLN (Persero), I gained exposure to real-world systems, professional workflows, and teamwork in a technical environment.I enjoy building solutions that combine software and hardware to solve real-world problems, especially in networking and intelligent systems.
 
