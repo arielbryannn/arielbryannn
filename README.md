@@ -160,9 +160,9 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 
 - 4 routers configured with static routing
 - 2 DHCP servers for automatic IP address assignment
-- Supports communication between multiple subnets
-- Manual routing configuration between networks
-- Simulated using Cisco Packet Tracer
+- Static routes are configured on each router
+- DHCP servers assign IP addresses dynamically
+- Devices communicate across different subnets
 - [View Project](link_github)
 
 <br>
