@@ -83,7 +83,7 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 
 ## 🚀 Featured Projects
 
-##### Fire Detection System
+#### Fire Detection System
 
 <p align="center">
   <img src="img/api1.jpeg" width="250"/>
@@ -99,7 +99,7 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 - Detects fire in real-time and sends alerts via email
 - [View Project](https://github.com/arielbryannn/Detection-Projects/blob/main/deteksi_api_opencv_mediapipe2.py)
 
-##### Drowsiness Detection System
+#### Drowsiness Detection System
 <p align="center">
   <img src="img/DrownsinessDetection.jpeg" width="250"/>
 </p>
@@ -108,7 +108,7 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 - Prevents driver fatigue
 - [View Project](https://github.com/arielbryannn/Detection-Projects/blob/main/import%20cv2-sleep%20detected.py)
 
-##### Hand Tracking Application
+#### Hand Tracking Application
 <p align="center">
   <img src="img/handtracking.jpeg" width="250"/>
 </p>
@@ -116,7 +116,7 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 - Real-time hand gesture tracking using OpenCV
 - [View Project](https://github.com/arielbryannn/Detection-Projects/blob/main/import%20cv2%20-%20hand%20tracking2.py)
 
-##### Automatic Fish Feeder System (Arduino Uno)
+#### Automatic Fish Feeder System (Arduino Uno)
 
 <p align="center">
   <img src="img/Sistem3.jpeg" width="250"/>
@@ -135,7 +135,7 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 - [View Project](https://github.com/arielbryannn/Automatic_Fish_Feeder_Arduino-Project)
 
 
-##### Network Simulation 
+#### Network Simulation 
 - Designed network topology using Cisco routers
 - Simulated routing protocols
 - [View Project](link_github) 🌐 
