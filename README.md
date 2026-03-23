@@ -96,7 +96,11 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 </p>
 
 - Built using OpenCV (Python)
-- Detects fire in real-time and sends alerts via email
+- Real-time fire detection using computer vision
+- Activates alarm (beep sound) and displays warning message
+- Captures screenshots automatically upon detection
+- Sends real-time email alerts via Gmail with captured images
+- System continuously monitors and stops alerts when no fire is detected
 - [View Project](https://github.com/arielbryannn/Detection-Projects/blob/main/deteksi_api_opencv_mediapipe2.py)
 
 #### Drowsiness Detection System
