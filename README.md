@@ -128,6 +128,12 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
   <img src="img/Sistem4.jpeg" width="250"/>
 </p>
 
+- Automated feeding based on schedule
+- Uses RTC module for accurate timing
+- Servo motor controls food release
+- Reduces manual feeding effort
+- [View Project](https://github.com/arielbryannn/Automatic_Fish_Feeder_Arduino-Project)
+
 
 ##### Network Simulation 
 - Designed network topology using Cisco routers
