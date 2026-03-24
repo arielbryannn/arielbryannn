@@ -3,6 +3,10 @@
 
 ## *Hi Everyone! I'm Ariel Fazle Mawla Bryan Adams👋*
 #### 
+
+<br>
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=I'M%20A%20COMPUTER%20SYSTEM%20UNDERGRADUATE;PASSIONATE%20NETWOKING,%20IOT,%20AND%20EMBEDDED%20SYSTEMS&center=true&width=900&height=80&color=7C3AED&size=30&pause=2000">
 </p>
