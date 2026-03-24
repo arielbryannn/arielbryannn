@@ -2,7 +2,11 @@
 
 
 ## *Hi Everyone! I'm Ariel Fazle Mawla Bryan Adams👋*
-#### I'm a Computer Systems undergraduate passionate about Networking, IoT, and Embedded Systems.
+#### 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'M%20A%20COMPUTER%20SYSTEM%20UNDERGRADUATE;PASSIONATE%20NETWOKING,%20IOT,%20AND%20EMBEDDED%20SYSTEMS&center=true&width=900&height=80&color=7C3AED&size=30&pause=2000">
+</p>
+
 
 <br>
 
@@ -129,8 +133,8 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 - Detects individual fingers (thumb, index, middle, ring, little)
 - Each finger gesture triggers a specific voice output
 - Example outputs:
-  - Thumb → "Halo, perkenalkan"
-  - Index → "Nama saya Ariel"
+  - Thumb  → "Halo, perkenalkan"
+  - Index  → "Nama saya Ariel"
   - Middle → "Salam kenal yaa"
   - Ring → "Terima kasih"
   - Little → "Sampai jumpa"
