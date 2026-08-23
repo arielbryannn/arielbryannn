@@ -19,16 +19,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
+      - name: Generate pacman animation
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/pacman.svg?palette=github-dark&color_snake=yellow
 
-      - name: Push pacman-contribution-graph.svg to the output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: .
-          include_dotfiles: true
+          build_dir: dist
+          # Perintah ini memaksa branch output dibersihkan dari file sampah (seperti ular lama)
+          keep_history: false 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
