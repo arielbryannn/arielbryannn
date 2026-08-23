@@ -216,4 +216,4 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 
 <br clear="both">
 
-![Snake Animation](https://raw.githubusercontent.com/arielbryannn/arielbryannn/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/arielbryannn/arielbryannn/output/snake.svg)
