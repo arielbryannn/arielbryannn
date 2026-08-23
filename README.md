@@ -176,7 +176,7 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 - Supports communication between multiple subnets
 - Manual routing configuration between networks
 - Simulated using Cisco Packet Tracer
-- [View Project](link_github)
+- [View Project](https://github.com/arielbryannn?tab=repositories)
 
 <br>
 
