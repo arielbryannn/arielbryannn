@@ -209,7 +209,7 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 <br>
 
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
 
 ![Pacman Animation](https://raw.githubusercontent.com/arielbryannn/arielbryannn/output/pacman.svg)
 
