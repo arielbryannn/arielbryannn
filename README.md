@@ -212,7 +212,7 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 ## 📊 My GitHub Stats
 
 
-![Ariel Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielbryannn&show_icons=true&theme=github_dark)
+![Pacman Animation](https://raw.githubusercontent.com/arielbryannn/arielbryannn/output/pacman.svg)
 
 <br clear="both">
 
