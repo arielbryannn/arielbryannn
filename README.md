@@ -216,5 +216,8 @@ Currently, I am focused on strengthening my technical skills, expanding my proje
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/arielbryannn/arielbryannn/output/snake.svg" alt="Snake animation" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arielbryannn/arielbryannn/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arielbryannn/arielbryannn/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/arielbryannn/arielbryannn/output/github-contribution-grid-snake.svg">
+</picture>
